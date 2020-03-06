@@ -1,0 +1,17 @@
+discovery-- debug and the change the code 
+
+xtremeio --smb protocol -- using rest -- postman-- for getting the response.
+
+vmax- 
+
+-------------------------------------
+
+LGLBV211
+ChangeMe1!
+
+XtreamIOClient
+StandardRestClient
+
+
+
+Client response status: 500
