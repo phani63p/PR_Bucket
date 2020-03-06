@@ -1,0 +1,23 @@
+infrastucture ,system-management, security, host and catalog.
+
+
+cassandra db and zoo keeper.
+
+
+
+storage sys --controllersvc
+
+fabric managers-syssvc
+
+fab man delete-apisvc
+
+-----------------------------------------------------------------------------------
+masking info,storage groups,port groups
+
+
+front end(port groups) ---- back end(array)---- volumes
+
+
+front end adaptors - back end (direct adaptors)
+
+storage ports --- storage volumes
