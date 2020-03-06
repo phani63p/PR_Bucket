@@ -19,6 +19,23 @@ Client response status: 500
 -----------------------------------------
 
 
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+C:\Users\gowthc\Desktop\Project\test\test>git pull
+remote: Counting objects: 1, done.
+remote: Total 1 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (1/1), done.
+From https://bitbucket.org/pvsnphani/test
+   da57269..29ce95c  master     -> origin/master
+Updating da57269..29ce95c
+Fast-forward
+ src/vipr_task.txt  | 17 +++++++++++++++++
+ src/vipr_to_do.txt | 23 +++++++++++++++++++++++
+ 2 files changed, 40 insertions(+)
+ create mode 100644 src/vipr_task.txt
+ create mode 100644 src/vipr_to_do.txt
+
 hi sraavbuiayhfdiupwhfiuqwhfoi
 ;ewougfiupwehf
 hfuoiwehfq
